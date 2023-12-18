@@ -12,11 +12,9 @@ Welcome to my GitHub. I am currently a Ph.D. student in the Department of Comput
 
 
 <p align="center">
-<a href="https://github.com/YaoleiQi">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YaoleiQi&show_icons=true&theme=default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YaoleiQi&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
-</a>
 </p>
 
 
