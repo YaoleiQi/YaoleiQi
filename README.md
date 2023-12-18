@@ -8,7 +8,7 @@
 [![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/google-scholar-stats/gs_data_shieldsio.json?&style=flat-square&logo=google-scholar&logoColor=white&label=Google%20Scholar%20Citations&labelColor=4984e9&color=4984e9&)](https://scholar.google.com/citations?user=Uf9GqRsAAAAJ)
 -->
 
-Welcome to my GitHub. I am currently a Ph.D. student in the Department of Computer Science at [Southeast University](https://seu.edu.cn), Nanjing. I am fortunate to be advised by [Prof. Guanyu Yang](https://cse.seu.edu.cn/2023/1024/c23024a469548/page.htm/) throughout both my master's and doctoral studies. Prior to this, I completed my bachelor's degree at Southeast University as well. 
+Welcome to my GitHub. I am currently a Ph.D. student in the Department of Computer Science at [Southeast University](https://seu.edu.cn), Nanjing. I am currently advised by [Prof. Guanyu Yang](https://cse.seu.edu.cn/2023/1024/c23024a469548/page.htm/) throughout both my master's and doctoral studies. Prior to this, I completed my bachelor's degree at Southeast University as well. 
 
 
 <p align="center">
