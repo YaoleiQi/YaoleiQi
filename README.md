@@ -13,14 +13,11 @@ Welcome to my GitHub. I am currently a Ph.D. student in the Department of Comput
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YaoleiQi&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=YaoleiQi&show_icons=true&theme=dark#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YaoleiQi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=YaoleiQi&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YaoleiQi&show_icons=true&theme=dark#gh-dark-mode-only" />
 </picture>
+
 
 My research lies at the intersection of **Deep Learning** and **Artificial Intelligence in Medicine** -- with a special focus on dealing with the tough task in tubular structure analysis that are knowledge-driven and data-efficient. My research interests include **medical imaging**, **weakly-supervised learning**, **network design**, **federated learning**, **foundation model**, and **computer-assisted diagnosis**, etc. If you have any questions on my projects, please feel free to [send me an email](Yaolei710@foxmail.com).
