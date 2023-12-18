@@ -1,4 +1,4 @@
-![image](https://github.com/YaoleiQi/YaoleiQi/assets/50353553/6b84d1d3-cd89-4e73-99a8-447ff29bf06a)### Hello friends, I'm Yaolei! 👋
+### Hello friends, I'm Yaolei! 👋
 
 [![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=internet-explorer&logoColor=white)](https://yaoleiqi.github.io/)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=43lNKkcAAAAJ&hl=zh-CN)
