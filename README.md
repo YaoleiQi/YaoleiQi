@@ -10,4 +10,12 @@
 
 Welcome to my GitHub. I am currently a Ph.D. student in the Department of Computer Science at [Southeast University](https://seu.edu.cn), Nanjing. I am fortunate to be advised by [Prof. Guanyu Yang](https://cse.seu.edu.cn/2023/1024/c23024a469548/page.htm/) throughout both my master's and doctoral studies. Prior to this, I completed my bachelor's degree at Southeast University as well. 
 
+<p align="center">
+<a href="https://github.com/YaoleiQi">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YaoleiQi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YaoleiQi&layout=compact&langs_count=8&theme=vue-dark"/>
+</a>
+</p>
+
 My research lies at the intersection of **Deep Learning** and **Artificial Intelligence in Medicine** -- with a special focus on dealing with the tough task in tubular structure analysis that are knowledge-driven and data-efficient. My research interests include **medical imaging**, **weakly-supervised learning**, **network design**, **federated learning**, **foundation model**, and **computer-assisted diagnosis**, etc. If you have any questions on my projects, please feel free to [send me an email](Yaolei710@foxmail.com).
